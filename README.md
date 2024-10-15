@@ -10,15 +10,11 @@
 />
 <br>
 
-- 🔭 I’m currently working on **An Insurance Web App**
 
-- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Angular,React,MEARN**
 
 - 📫 How to reach me **mohamedbenhamou.info@gmail.com**
 
-- ⚡ Fun fact **I am a JavaScript Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
