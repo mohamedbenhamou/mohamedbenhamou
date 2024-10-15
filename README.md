@@ -9,13 +9,6 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif"
 />
 <br>
-
-
-
-
-- 📫 How to reach me **mohamedbenhamou.info@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-ben-hamou-134981220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ben-hamou-134981220/" height="30" width="40" /></a>
